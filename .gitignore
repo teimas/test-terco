@@ -1,0 +1,8 @@
+
+# Environment variables (contains sensitive API keys and tokens)
+.env
+.env.local
+.env.*.local
+
+# Added by semantic-release setup
+node_modules/
