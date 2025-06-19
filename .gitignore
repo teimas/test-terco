@@ -3,3 +3,6 @@
 .env
 .env.local
 .env.*.local
+
+# Added by semantic-release setup
+node_modules/
